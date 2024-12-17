@@ -50,7 +50,7 @@ const Products: React.FC = () => {
 
   {/* Product 3 */}
   <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition duration-300 w-72">
-    <img src="/image-1.png" alt="Luxury Steel Chair" className="w-full h-72 object-cover rounded-lg" />
+    <img src="/101.png" alt="Luxury Steel Chair" className="w-full h-72 object-cover rounded-lg" />
     <div className="mt-4 text-center">
       <h3 className="text-lg font-semibold text-[#272343]">Luxury Steel Chair</h3>
       <p className="text-teal-600 mt-2">$20</p>
@@ -59,7 +59,7 @@ const Products: React.FC = () => {
 
   {/* Product 4 */}
   <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition duration-300 w-72">
-    <img src="/image.png" alt="Luxury Steel Chair" className="w-full h-72 object-cover rounded-lg" />
+    <img src="/20.png" alt="Luxury Steel Chair" className="w-full h-72 object-cover rounded-lg" />
     <div className="mt-4 text-center">
       <h3 className="text-lg font-semibold text-[#272343]">Library Stool Chair</h3>
       <p className="text-teal-600 mt-2">$20</p>
