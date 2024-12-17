@@ -239,7 +239,7 @@ const HeroSection = () => {
               </div>
   
             <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-              <img src="/00.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
+              <img src="/101.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
               <div className="mt-4 text-center">
                 <h3 className="text-lg font-semibold text-[#272343]">Luxury Steel Chair</h3>
                 <p className="text-teal-600 mt-2">$20</p>
