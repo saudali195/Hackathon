@@ -149,7 +149,7 @@ const HeroSection = () => {
             </div>
             <div className="rounded-lg">
               <img
-                src="/image.png"
+                src="/20.png"
                 alt="White Chair 2"
                 width={300}
                 height={400}
@@ -167,7 +167,7 @@ const HeroSection = () => {
             </div>
             <div className="rounded-lg">
               <img
-                src="/image.png"
+                src="/20.png"
                 alt="Another Chair"
                 width={300}
                 height={400}
@@ -184,7 +184,7 @@ const HeroSection = () => {
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 mt-8">
             
             <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-              <img src="/image.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
+              <img src="/20.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
               <div className="mt-4 text-center">
                 <h3 className="text-lg font-semibold text-[#272343]">Luxury Steel Chair</h3>
                 <p className="text-teal-600 mt-2">$20</p>
@@ -239,14 +239,14 @@ const HeroSection = () => {
               </div>
   
             <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-              <img src="/image-1.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
+              <img src="/00.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
               <div className="mt-4 text-center">
                 <h3 className="text-lg font-semibold text-[#272343]">Luxury Steel Chair</h3>
                 <p className="text-teal-600 mt-2">$20</p>
                 </div>
               </div>
               <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-              <img src="/image.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
+              <img src="/02.png" alt="Luxury Steel Chair" className="w-312 h-312 object-cover rounded-lg" />
               <div className="mt-4 text-center">
                 <h3 className="text-lg font-semibold text-[#272343]">Liabrary Stool Chair</h3>
                 <p className="text-teal-600 mt-2">$20</p>
